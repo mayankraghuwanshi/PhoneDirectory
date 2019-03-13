@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "home" : "https://mayankraghuwanshi.github.io/PhoneDirectoryApp",
+  "home" : "https://mayankraghuwanshi.github.io/PhoneDirectory/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
